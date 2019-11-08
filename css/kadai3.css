@@ -1,0 +1,19 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: black;   
+}
+
+h2,h3{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+h4{
+    color: darkslateblue;
+}
+body{
+background-image:url("../images/original.jpg");
+background-attachmet:fixed;
+}
