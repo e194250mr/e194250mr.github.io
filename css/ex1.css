@@ -1,0 +1,20 @@
+h2{
+    color: white;
+    text-align: center;
+    background-color: black;   
+}
+
+h3{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+table{
+    color: white;
+   background-color:black;
+}
+body{
+background-image:url("../images/original.jpg");
+background-attachmet:fixed;
+}
