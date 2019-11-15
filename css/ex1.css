@@ -18,3 +18,6 @@ body{
 background-image:url("../images/original.jpg");
 background-attachmet:fixed;
 }
+ol{
+    background-image: url("../images/03.jpg");
+}
