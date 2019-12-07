@@ -1,23 +1,20 @@
-h1{
-    color: whitesmoke;
+h1#id1{
     text-align:center;
-    background-color: black
+    background-color: beige
 }
+
+.2{
+    color: white;
+    text-align: center;
+    background-color: black;   
+}
+
 h2{
     color: darkcyan;
-    text-align : center;
-    background-color: ivory;
-}
-h2#olar{
-    color: ghostwhite;
     text-align: center;
-    background-color: darkcyan;
+    background-color: black;
 }
-h1#rink{
-    color: black;
-    text-align: center;
-    background-color: whitesmoke;
-}
+
 body{
 background-image:url("../images/original.jpg");
 background-attachmet:fixed;
